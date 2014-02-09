@@ -1,7 +1,7 @@
 Look at this stuff
-Isnt it neat?
-Wouldnt you think my collections complete?
-Wouldnt you think I'm the girl the girl who has everything.
+Isn't it neat?
+Wouldn't you think my collections complete?
+Wouldn't you think I'm the girl the girl who has everything.
 
 Look at this trove
 Treasures untold
@@ -10,7 +10,7 @@ Looking around here you think
 Sure, she's got everything
 
 I've got frameworks and source code a-plenty
-I've got data and servers galore
+I've got data and networks galore
 You want standard libraries?
 I've got twenty!
 But who cares?
@@ -19,34 +19,34 @@ I want more
 
 I wanna be where the neckbeards are
 I wanna see, wanna see them hacking,
-Typing around on those - what do you call 'em?
-Oh - feet!
+Getting a tan off of - what do you call 'em?
+Oh - screens!
 
 Smooth unshaved skin you don't get too far
-Beards are required for kernal patching
-Strolling along down a - what's that word again?
-Street
+Beards are required for kernel patching
+Memorizing some - what's that word again?
+RFCs
 
-Up where they walk, up where they run
-Up where they stay all day in the sun
-Wanderin' free - wish I could be
+Down where they code, portscanning nodes,
+Down where they add new dtrace probes,
+Copywrite free - wish I could be
 Part of that world
 
 
-What would I give if I could live out of these waters?
-What would I pay to spend a day warm on the sand?
-Bet'cha on land they understand
-That they don't reprimand their daughters
-Bright young women sick of swimmin'
-Ready to stand
+What would I give if I could write my own kernel?
+What would I pay to spend a day installing GNU?
+Bet'cha in chat they all know that
+They cannot even tell I'm human
+Bright young women, learn to admin 
+sudo su
 
 
 I'm ready to know what the neckbeards know
 Ask 'em my questions and get some answers
-What's a fire and why does it - what's the word?
-Burn?
+What's a select call and why does it - what's the word?
+Block?
 When's it my turn?
-Wouldn't I love, love to explore that shore up above?
-Out of the sea
+Wouldn't I love, love to explore that boot loader GRUB?
+No more PCs
 Wish I could be
 Part of that world
