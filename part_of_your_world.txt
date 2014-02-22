@@ -19,25 +19,25 @@ I want more
 
 I wanna be where the neckbeards are
 I wanna see, wanna see them hacking,
-Getting a tan off of - what do you call 'em?
+Getting a tan off those - what do you call 'em?
 Oh - screens!
 
 Smooth unshaved skin you don't get too far
 Beards are required for kernel patching
-Memorizing some - what's that word again?
-RFCs
+Pointers and threading in - what's that language again?
+C
 
 Down where they code, portscanning nodes,
-Down where they add new dtrace probes,
+Down where they're adding new dtrace probes,
 Copywrite free - wish I could be
 Part of that world
 
 
-What would I give if I could write my own kernel?
+What would I give if I could build client chat servers?
 What would I pay to spend a day installing GNU?
-Bet'cha in chat they all know that
-They cannot even tell I'm human
-Bright young women, learn to admin 
+Betcha at night they all code right,
+neckbearded joyous code hackathons
+Bright young women, we can admin 
 sudo su
 
 
@@ -48,5 +48,8 @@ Block?
 When's it my turn?
 Wouldn't I love, love to explore that boot loader GRUB?
 No more PCs
+Wish I could be
+Part of that world
+Neckbeard and free
 Wish I could be
 Part of that world
