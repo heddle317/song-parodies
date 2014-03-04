@@ -24,7 +24,7 @@ Oh - screens!
 
 Smooth unshaved skin you don't get too far
 Beards are required for kernel patching
-Pointers and threading in - what's that language again?
+Semaphore waiting in - what's that language again?
 C
 
 Down where they code, portscanning nodes,
@@ -32,14 +32,12 @@ Down where they're adding new dtrace probes,
 Copywrite free - wish I could be
 Part of that world
 
-
 What would I give if I could build client chat servers?
 What would I pay to spend a day installing GNU?
-Betcha at night they all code right,
-neckbearded joyous code hackathons
-Bright young women, we can admin 
+Betcha with beards code's crystal clear, (not sure I like this line and the next)
+bet they don't even check stack traces
+Bright young women, not just admins
 sudo su
-
 
 I'm ready to know what the neckbeards know
 Ask 'em my questions and get some answers
@@ -52,4 +50,4 @@ Wish I could be
 Part of that world
 Neckbeard and free
 Wish I could be
-Part of that world
+Part of your world
