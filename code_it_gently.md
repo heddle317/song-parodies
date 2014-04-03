@@ -1,5 +1,4 @@
 # Code It Gently #
-==================
 
 This is a song for the coders  
 But all you non-programmers out there, listen closely

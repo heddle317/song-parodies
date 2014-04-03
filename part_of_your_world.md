@@ -1,5 +1,4 @@
 # Part of your World (Neckbeard Parody) #
-=========================================
 
 Look at this stuff  
 Isn't it neat?  
@@ -53,11 +52,15 @@ I'm ready to know what the neckbeards know
 Ask 'em my questions and get some answers  
 What's a select call and why does it - what's the word?  
 Block?  
+
+
 When's it my turn?  
 Wouldn't I love, love to explore that boot loader GRUB?  
 No more PCs  
 Wish I could be  
 Part of that world  
+
+
 Neckbeard and free  
 Wish I could be  
 Part of your world  
