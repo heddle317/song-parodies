@@ -36,7 +36,7 @@ C
 
 Down where they code, portscanning nodes,  
 Down where they're adding new dtrace probes,  
-Copywrite free - wish I could be  
+Copyright free - wish I could be  
 Part of that world  
 
 
