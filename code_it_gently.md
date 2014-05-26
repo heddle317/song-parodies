@@ -21,20 +21,18 @@ I'm gonna merge you sweetly
 Then I'll deploy you completely  
 
 
-*And then you say hey I bought you flowers  
-And then you say wait a minute sally*  
-I think I've got a bug in my commit  
+And then you say hey I'll help a teammate  
+And then you say hey don't fuck that up, wait  
+I think you've got a bug in your commit  
 Could you get it out for me  
 That's fucking teamwork  
 
 
 *What's your fave posish?  
 That's cool with me  
-It's not my favorite  
-But I'll do it for you  
-What's your favorite dish?  
-I'm not gonna cook it  
-But I'll order it from Zanzibar*  
+It's not my favorite but I'll do it for you*  
+Look the tests just broke  
+I'm not gonna fix them but I'll log a bug in Asana  
 
 
 And then I'm gonna code you completely  
