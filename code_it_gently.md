@@ -6,13 +6,13 @@ But all you non-programmers out there, listen closely
 
 You don't always have to code so hard  
 In fact sometimes that's not right to do  
-Somtimes you've got to take your time  
+Sometimes you've got to take your time  
 And fucking user test your shit too.  
 
 
-*Sometimes ya got to squeeze  
-Sometimes you've got to say please  
-Sometime you've got to say hey*  
+Sometimes ya got to peer review  
+Sometimes ya got to pair too  
+Sometime you've got to say hey  
 
 
 I'm gonna code you softly  
@@ -28,11 +28,11 @@ Could you get it out for me
 That's fucking teamwork  
 
 
-*What's your fave posish?  
+What's your IDE  
 That's cool with me  
-It's not my favorite but I'll do it for you*  
-Look the tests just broke  
-I'm not gonna fix them but I'll log a bug in Asana  
+Vim's not my favorite but I'll use it for you  
+Production's down for me  
+I'm not gonna fix it but I'll log a bug in Asana  
 
 
 And then I'm gonna code you completely  
