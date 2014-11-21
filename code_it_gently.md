@@ -1,5 +1,7 @@
 # Code It Gently #
 
+https://soundcloud.com/heddle317/code-it-gently  
+
 This is a song for the coders  
 But all you non-programmers out there, listen closely
 
